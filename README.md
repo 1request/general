@@ -7,6 +7,8 @@ General
 - [iOS Tests/Specs TDD/BDD and Integration & Acceptance Testing](http://stackoverflow.com/questions/4114083/ios-tests-specs-tdd-bdd-and-integration-acceptance-testing)
 - [Frontend Test using Sikuli](http://www.sikuli.org/)
 - [Keep It Functional - An iOS Functional Testing Framework](https://github.com/kif-framework/KIF)
+- [The Right Way to Ask Users for iOS Permissions](https://medium.com/@mulligan/the-right-way-to-ask-users-for-ios-permissions-96fa4eb54f2c)
+- [Automated iOS beta distribution using Travis CI and Testflight](https://medium.com/ios-apprentice/automated-ios-app-beta-distribution-30855d77931a)
 
 ## Other Articles
 
